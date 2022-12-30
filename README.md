@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Ke En :smiley:
+
+- 🌱 I’m currently in my second year of university in NTU studying Computer Science :computer:
+- 🔭 I have a strong interest in software development 
+
 
 <!--
 **keenlim/keenlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
