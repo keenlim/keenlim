@@ -3,6 +3,7 @@
 - 🌱 I’m currently in my second year of university in NTU studying Computer Science :computer:
 - 🔭 I have a strong interest in software development 
 - :mortar_board: I'm a motivated and driven learner 
+- ⚡ Fun fact: Loves sports and likes to go on adventure
 
 
 <!--
