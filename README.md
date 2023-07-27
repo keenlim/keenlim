@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Loves sports and likes to go on adventure
 
 ### Tech Stack, Programming Languages that I have worked in ...
-<h5>
+<h3>
   <img alt = "Javascript" src = "https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
   <img alt = "React" src = "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
   <img alt = "Node.js" src = "https://img.shields.io/badge/Node.js-33933?logo=node.js&logoColor=black&style=flat"/>
@@ -15,13 +15,16 @@
   <img alt = "HTML" src = "https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=black&style=flat"/>
   <img alt = "CSS" src = "https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=black&style=flat"/>
   
-</h5>
+</h3>
 
 ### Databases that I have worked in ...
-<h5>
+<h3>
   <img alt = "MongoDB" src = "https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black&style=flat"/>
   <img alt = "MySQL" src = "https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black&style=flat"/>
-</h5>
+</h3>
+
+### GitHub Stats Card
+[![Ke En's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenlim)]
 
 
 <!--
