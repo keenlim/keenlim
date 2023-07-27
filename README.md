@@ -24,7 +24,7 @@
 </h3>
 
 ### GitHub Stats Card
-[![Ke En's GitHub stats](https://github-readme-stats.vercel.app/api?username=keenlim)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?keenlim=yourusername&count_private=true&theme=radical&show_icons=true" />
 
 
 <!--
