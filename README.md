@@ -7,7 +7,7 @@
 
 ### Have worked in...
 <p>
-  <img alt = "React" src = "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat"/>
+  <img alt = "React" src = "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
 </p>
 
 
