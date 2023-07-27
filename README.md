@@ -1,4 +1,4 @@
-# Hi there 👋 I am Ke En :smiley:
+# Hello World 👋 I am Ke En :smiley:
 
 - 🌱 I’m currently in my third year of university at NTU studying Computer Science :computer:
 - 🔭 I have a strong interest in software development in both front-end and back-end development 
