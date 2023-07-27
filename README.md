@@ -5,7 +5,7 @@
 - :mortar_board: I'm a motivated and driven learner 
 - ⚡ Fun fact: Loves sports and likes to go on adventure
 
-### Tech Stack, Programming Languages that I have worked in ...
+### 💻 Tech Stack, Programming Languages that I have worked in ...
 <h3>
   <img alt = "Javascript" src = "https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
   <img alt = "React" src = "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat"/>
@@ -23,7 +23,7 @@
   <img alt = "MySQL" src = "https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black&style=flat"/>
 </h3>
 
-### GitHub Stats
+### 📊 GitHub Stats
 | GitHub Stats | Top Language Being Used |
 | :--: | :--: |
 | ![](https://github-readme-stats.vercel.app/api?username=keenlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenlim) |
