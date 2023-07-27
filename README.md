@@ -25,6 +25,7 @@
 
 ### GitHub Stats
 | GitHub Stats | Top Language Being Used |
+| :--: | :--: |
 | ![](https://github-readme-stats.vercel.app/api?username=keenlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keenlim) |
 
 
