@@ -1,6 +1,6 @@
 # Hello World 👋 I am Ke En :smiley:
 
-- 🌱 I’m currently in my third year of university at NTU studying Computer Science :computer:
+- 🌱 I’m currently in my final year of university at NTU studying Computer Science and specialising in Artificial Intelligence :computer:
 - 🔭 I have a strong interest in software development in both front-end and back-end development 
 - :mortar_board: I'm a motivated and driven learner 
 - ⚡ Fun fact: Loves sports and likes to go on adventure
